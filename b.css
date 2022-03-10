@@ -1,0 +1,24 @@
+.y {
+    display: flex;
+    justify-content: space-between;
+}
+
+.headd {
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+    background-color: white;
+}
+
+.par {
+    display: flex;
+    justify-content: center;
+    width: 610px;
+    margin-left: 350px;
+}
+
+.mm {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
